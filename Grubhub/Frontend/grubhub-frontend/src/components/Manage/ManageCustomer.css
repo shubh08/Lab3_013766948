@@ -1,0 +1,36 @@
+
+.sidebar {
+    margin-top: 50px;
+    padding: 0;
+    width: 200px;
+    background-color:white;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    border-right: 1px solid black;
+    color:#ED2E38;
+  }
+  
+  .sidebar a{
+    color:#ED2E38;
+  }
+
+  .sidebar a {
+    display: block;
+    color:#ED2E38 none repeat scroll 0 0;
+    padding: 16px;
+    text-decoration: none;
+  }
+   
+   a.active {
+    background-color: #ED2E38;
+    color: #ED2E38;
+  }
+  
+  
+  div.content {
+    
+    margin-left: 200px;
+    padding: 50px 16px;
+    height: 1000px;
+  }

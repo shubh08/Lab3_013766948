@@ -1,0 +1,49 @@
+.section{
+
+    padding-top: 50px;
+
+}
+
+
+ul.sectionul {
+    width: 80%;
+    margin: auto;
+}
+
+
+.logSection{
+    
+    padding: 102px;
+    width: 100%;
+    position: relative;
+    background-image:url("https://res.cloudinary.com/grubhub-marketing/image/upload/f_auto,fl_lossy,q_80/v1538431627/Homepage_Desktop_0018_Pizza_2x_qshvvo.jpg");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.searchBox
+{
+    padding-top: 50px;
+    padding-left: 300px;
+    
+    padding-right: 300px;
+}
+
+
+#outer
+{
+    width:100%;
+    text-align: center;
+}
+.inner
+{
+    display: inline-block;
+}
+
+.btnFormat{
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
