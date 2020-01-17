@@ -75,7 +75,7 @@ let connPool = sqlCon.createPool({
 
 
 const mongoose = require('mongoose');
-const uri = "mongodb+srv://root:root@cluster0-bhnra.mongodb.net/test?retryWrites=true&w=majority";
+const uri = "";
 mongoose.connect(uri, {useNewUrlParser: true})
 
 app.use(cookieParser());
